@@ -4,8 +4,6 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Mohammad.bakhtairi700@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=[https://destination-voc.vercel.app))]([https://pytopia.ai](https://destination-voc.vercel.app))
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/utopia955)
-
 
 
 ### 🖥 Skills
